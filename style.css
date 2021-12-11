@@ -1,0 +1,16 @@
+body{
+    color:rgb(74, 134, 134);
+    background: rgb(21, 150, 255);
+}
+.heading{
+    width: 70%;
+    font-size: 27px;
+}
+#cam{
+border: 2px dashed rgb(114, 231, 225);
+width: 350px;
+height: 300px;
+}
+.name_of_object,#result_object_name,#result_object_accuracy{
+    color: rgb(39, 204, 182);
+}
